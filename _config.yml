@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Machine Learning Adventures.
-description: Let the fun begin... ❤
+description:    All about Kaggle, papers, and deployment. Let the fun begin... ❤
 github_username: samuellukudu
 
 # Email and twitter are optional:
@@ -15,7 +15,7 @@ email:  samuellukudu.sl20@gmail.com
 twitter_username:   samuel_lukudu
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
